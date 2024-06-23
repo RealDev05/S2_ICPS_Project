@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View android:id="@+id/view"
+    android:layout_width="10dp"
+    android:layout_height="10dp"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentEnd="true"
+    android:background="#fff0"
+    android:scaleY="1"
+    android:transformPivotX="0dp"
+    android:transformPivotY="200dp"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" />
