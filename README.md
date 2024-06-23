@@ -1,8 +1,10 @@
 # About
  This remote controllable (from android app) car with 2d scanning capabilities was made as Basic Electronics Lab Project in Semester 2 of SOE, CUSAT by B Tech CSE students of the same,
+ - Ayishathul Rinsha P
  - Ben Sajan
- - Bhavya S Shaji
  - Binil George
+ - Deva Nandan H
+ - Goutham Rajesh
 
 A circuit diagram of the project is provided at the bottom.
 
