@@ -7,7 +7,7 @@ A circuit diagram of the project is provided at the bottom.
 
 ## Components Used
 ### Hardware
-- ESP WROOM 32 - Dev Kit V1
+- [ESP WROOM 32 - Dev Kit V1](https://www.electronicscomp.com/esp32-development-board-with-wifi-bluetooth-india?gad_source=4&gclid=Cj0KCQjwj9-zBhDyARIsAERjds2-rlMeInHLUJbyYY38m9j1-HdD1XQiBZh8xwXowUkfx1W8928wde0aAigQEALw_wcB)
 - L298N 12V DC Motor Driver
 - 12V 2500mAh LIPO Battery
 - 3V Rectangular DC Motor x4
