@@ -1,1 +1,25 @@
-![alt text](https://github.com/RealDev05/S2_BE_Lab_Project/blob/main/Schematic_2D-Scanner-RC-Car_2024-06-16%20(1).svg?raw=true)
+### About
+ This remote controllable car with 2d scanning capabilities was made as Basic Electronics Lab Project in Semester 2 of SOE, CUSAT by B Tech CSE students of the same,
+ - Ben Sajan
+ - Bhavya S Shaji
+ - Binil George
+A circuit diagram of the project is provided at the bottom.
+
+## Components Used
+# Hardware
+- ESP WROOM 32 - Dev Kit V1
+- L298N 12V DC Motor Driver
+- 12V 2500mAh LIPO Battery
+- 3V Rectangular DC Motor x4
+- SG90 Servo Motor
+- HCSR04 Ultrasonic Distance Sensor
+- Custom 3D Printed Distance Sensor to Servo Mounter
+- Custom 3D Printed Base and Wheels
+# Software
+- Arduino IDE
+- Android Studio
+- Figma
+- EasyEDA
+
+## Circuit Diagram
+![Circuit Diagram](https://github.com/RealDev05/S2_BE_Lab_Project/blob/main/Schematic_2D-Scanner-RC-Car_2024-06-16%20.svg?raw=true)
