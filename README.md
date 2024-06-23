@@ -3,6 +3,7 @@
  - Ben Sajan
  - Bhavya S Shaji
  - Binil George
+
 A circuit diagram of the project is provided at the bottom.
 
 ## Components Used
